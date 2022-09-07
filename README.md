@@ -9,4 +9,4 @@ For the design of this application, our team needs to first arrange the function
 https://github.com/DECO3500-8-24/8.24/wiki/Zotero-Link
 
 ## Link to Journal
-https://github.com/DECO3500-8-24/8.24/wiki/Zotero-Link
+https://github.com/DECO3500-8-24/8.24/wiki/Journal
