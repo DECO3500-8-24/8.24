@@ -10,3 +10,7 @@ https://github.com/DECO3500-8-24/8.24/wiki/Zotero-Link
 
 ## Link to Journal
 https://github.com/DECO3500-8-24/8.24/wiki/Journal
+
+## Link to Digital-Ethnography
+https://github.com/DECO3500-8-24/8.24/wiki/Digital-Ethnography
+
