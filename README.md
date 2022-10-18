@@ -15,7 +15,7 @@ https://github.com/DECO3500-8-24/8.24/wiki/Functional-Structure-Diagram
 ## Link to Prototype
 https://github.com/DECO3500-8-24/8.24/wiki/Prototype-Design
 
-### First Version of Low Fidelity Prototype
+* First Version of Low Fidelity Prototype
 https://www.figma.com/proto/0MVH8UkuWNVxiRZnxYKN8y/Untitled?node-id=68%3A5&scaling=scale-down&page-id=0%3A1&starting-point-node-id=68%3A5&show-proto-sidebar=1
 
 ### Second Version of Low Fidelity Prototype
